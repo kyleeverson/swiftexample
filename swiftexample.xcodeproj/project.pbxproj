@@ -14,6 +14,7 @@
 		272B4B9F20C66B1900751689 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 272B4B9D20C66B1900751689 /* LaunchScreen.storyboard */; };
 		272B4BAA20C66B1900751689 /* swiftexampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 272B4BA920C66B1900751689 /* swiftexampleTests.swift */; };
 		272B4BB520C66B1900751689 /* swiftexampleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 272B4BB420C66B1900751689 /* swiftexampleUITests.swift */; };
+		272B4BC320C8F42700751689 /* ChartNameTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 272B4BC220C8F42700751689 /* ChartNameTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		272B4BB020C66B1900751689 /* swiftexampleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = swiftexampleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		272B4BB420C66B1900751689 /* swiftexampleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swiftexampleUITests.swift; sourceTree = "<group>"; };
 		272B4BB620C66B1900751689 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		272B4BC220C8F42700751689 /* ChartNameTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChartNameTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				272B4B9B20C66B1900751689 /* Assets.xcassets */,
 				272B4B9D20C66B1900751689 /* LaunchScreen.storyboard */,
 				272B4BA020C66B1900751689 /* Info.plist */,
+				272B4BC220C8F42700751689 /* ChartNameTableViewCell.swift */,
 			);
 			path = swiftexample;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			files = (
 				272B4B9720C66B1700751689 /* ViewController.swift in Sources */,
 				272B4B9520C66B1700751689 /* AppDelegate.swift in Sources */,
+				272B4BC320C8F42700751689 /* ChartNameTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -431,7 +435,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = G3ZWB3HB5X;
+				DEVELOPMENT_TEAM = 4A4MFHYT84;
 				INFOPLIST_FILE = swiftexample/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -449,7 +453,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = G3ZWB3HB5X;
+				DEVELOPMENT_TEAM = 4A4MFHYT84;
 				INFOPLIST_FILE = swiftexample/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",

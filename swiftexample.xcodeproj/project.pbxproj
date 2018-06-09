@@ -15,6 +15,7 @@
 		272B4BAA20C66B1900751689 /* swiftexampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 272B4BA920C66B1900751689 /* swiftexampleTests.swift */; };
 		272B4BB520C66B1900751689 /* swiftexampleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 272B4BB420C66B1900751689 /* swiftexampleUITests.swift */; };
 		272B4BC320C8F42700751689 /* ChartNameTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 272B4BC220C8F42700751689 /* ChartNameTableViewCell.swift */; };
+		272B4BC520CBA73900751689 /* ChartItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 272B4BC420CBA73900751689 /* ChartItem.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		272B4BB420C66B1900751689 /* swiftexampleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swiftexampleUITests.swift; sourceTree = "<group>"; };
 		272B4BB620C66B1900751689 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		272B4BC220C8F42700751689 /* ChartNameTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChartNameTableViewCell.swift; sourceTree = "<group>"; };
+		272B4BC420CBA73900751689 /* ChartItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChartItem.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				272B4B9D20C66B1900751689 /* LaunchScreen.storyboard */,
 				272B4BA020C66B1900751689 /* Info.plist */,
 				272B4BC220C8F42700751689 /* ChartNameTableViewCell.swift */,
+				272B4BC420CBA73900751689 /* ChartItem.swift */,
 			);
 			path = swiftexample;
 			sourceTree = "<group>";
@@ -262,6 +265,7 @@
 				272B4B9720C66B1700751689 /* ViewController.swift in Sources */,
 				272B4B9520C66B1700751689 /* AppDelegate.swift in Sources */,
 				272B4BC320C8F42700751689 /* ChartNameTableViewCell.swift in Sources */,
+				272B4BC520CBA73900751689 /* ChartItem.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
